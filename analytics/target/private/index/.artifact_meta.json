@@ -1,17 +1,17 @@
 {
   "target_dir": "C:\\Users\\shate\\Documents\\dbt-duckdb-pipeline\\analytics\\target",
   "fingerprints": {
+    "run_results.json": {
+      "size": 346,
+      "modified_secs": 1793883550
+    },
     "semantic_manifest.json": {
       "size": 234,
       "modified_secs": 1793881558
     },
-    "run_results.json": {
-      "size": 7955,
-      "modified_secs": 1793881560
-    },
     "manifest.json": {
-      "size": 526235,
-      "modified_secs": 1793881560
+      "size": 526145,
+      "modified_secs": 1793883550
     }
   },
   "write_source": "DirectWrite",
