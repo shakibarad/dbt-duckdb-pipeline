@@ -13,3 +13,4 @@ wheels/
 data/
 *.duckdb
 logs/
+dbt_internal_packages/
