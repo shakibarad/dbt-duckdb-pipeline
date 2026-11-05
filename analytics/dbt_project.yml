@@ -12,7 +12,3 @@ clean-targets:
 models:
   analytics:
     +materialized: table
-
-
-
-

@@ -1,0 +1,1 @@
+{{ test_unique(column_name="job_location", model=get_where_subquery(ref('top_locations'))) }}

@@ -27,7 +27,7 @@ models:
       - name: search_term
         description: Role the scraper searched for.
 
-  - name: jobs_per_month
+  - name: job_per_month
     description: Monthly posting counts by role.
     config:
       persist_docs:

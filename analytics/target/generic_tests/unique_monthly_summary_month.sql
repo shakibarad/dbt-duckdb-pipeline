@@ -1,0 +1,1 @@
+{{ test_unique(column_name="month", model=get_where_subquery(ref('monthly_summary'))) }}
